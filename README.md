@@ -1,5 +1,6 @@
 # Rendr
-An artistic Renderer written in Rust. This is no where close to done and is currently just the end of following the Glium tutorial for setting up rendering. https://glium.github.io/glium/book/README.html
+A hopeful artistic Renderer written in Rust.
 
-## The Plan
-The plan for this Renderer is to advance it to the point I can use it in my upcoming art classes at college.
+This renderer is using WGPU and is currently just me following the [WGPU tutorial by Ben Hansen](https://sotrh.github.io/learn-wgpu/beginner/tutorial5-textures/#loading-an-image-from-a-file).
+
+I hope to be able to use the renderer for upcoming art classes that I am taking in college, however it is also just going to be a playground for me to learn Rust slowly. 

@@ -104,7 +104,6 @@ pub async fn run() {
     });
 }
 
-/// https://sotrh.github.io/learn-wgpu/beginner/tutorial2-surface/#state-new
 struct State {
     surface: wgpu::Surface,
     device: wgpu::Device,
